@@ -3,6 +3,8 @@ import cv2
 import config
 
 """
+Thresholding is often used as a method to segment the foreground of an image from the background.
+
 Thresholding is the binarization of an image.
 Normally, we use thresholding to focus on objects or areas of particular interest in an image.
 Applying simple thresholding methods requires human intervention.
